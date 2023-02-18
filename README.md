@@ -16,4 +16,21 @@
 ## Обране завдання
 23. Розрахувати [число долі](https://sergeiyurev.com/chislo-sudby-v-numerologii/) за заданою датою народження 
 
+Код файлу Exersice
+![Screenshot_1](https://user-images.githubusercontent.com/112692170/219875562-fdb13b0f-1b4b-4b4f-8104-2e830b577553.png)
+
+Код файлу TestResult
+![Screenshot_2](https://user-images.githubusercontent.com/112692170/219875594-d7ecf52b-59c6-4d9c-a0e8-df9c22696630.png)
+
+Перевірив роботу програми зі своїю датою народження
+![Screenshot_3](https://user-images.githubusercontent.com/112692170/219875613-a3ab8a3a-3559-426c-a02b-0563af409b7b.png)
+
+Звірив результат з кулькулятором та своїм розумом, все зійшлось. Програма працює коректно
+
+Для достовірної перевірки ввожу рандомну дату народження 
+![Screenshot_4](https://user-images.githubusercontent.com/112692170/219875633-8d6a1c96-a675-4bc8-a52e-7d9aff622188.png)
+
+Все ж таки все працює коректно
+
+
 
