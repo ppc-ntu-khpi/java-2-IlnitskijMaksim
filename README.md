@@ -15,5 +15,5 @@
 
 ## Обране завдання
 23. Розрахувати [число долі](https://sergeiyurev.com/chislo-sudby-v-numerologii/) за заданою датою народження 
-[![Run on Repl.it](https://repl.it/badge/github/ppc-ntu-khpi/identifiers-types-starter)](https://repl.it/github/ppc-ntu-khpi/identifiers-types-starter) [![Gitter](https://badges.gitter.im/PPC-SE-2020/OOP.svg)](https://gitter.im/PPC-SE-2020/OOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 
