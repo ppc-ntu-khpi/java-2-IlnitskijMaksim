@@ -1,12 +1,12 @@
-//package test;
+package test;
 
-//import domain.Exercise;
+import domain.Exercise;
 
 public class TestResult {
 
-    public static void main(String[] args) {
+ public static void main(String[] args) {
 
-        int R=10;
-        System.out.println("Area of a circle for R="+R+"m is "+Exercise.Calculate(R)+"m"+'\u00B2');
+        String d="09.03.2005";
+        System.out.println("Fate number by date "+d+" is "+Exercise.Calculate(d));
     }
 }
